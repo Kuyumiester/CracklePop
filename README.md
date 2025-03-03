@@ -1,6 +1,6 @@
 # CracklePop
 
-This program is written in the Zig programming language.
+This program is written in the Zig programming language.  
 See this page for installing Zig: https://ziglang.org/learn/getting-started/#direct
 
 ### To compile and run the program:
